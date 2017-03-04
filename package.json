@@ -11,11 +11,12 @@
   "devDependencies": {
     "coveralls": "2.11.16",
     "eslint": "3.16.1",
+    "eslint-config-silvermine": "1.0.1",
+    "expect.js": "0.3.1",
     "grunt": "1.0.1",
     "grunt-cli": "1.2.0",
     "grunt-eslint": "19.0.0",
     "istanbul": "0.4.5",
-    "mocha": "3.2.0",
-    "eslint-config-silvermine": "1.0.1"
+    "mocha": "3.2.0"
   }
 }
