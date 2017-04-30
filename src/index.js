@@ -1,10 +1,6 @@
 'use strict';
 
-var Class = require('class.extend');
+var App = require('./App'),
+    app = new App();
 
-module.exports = Class.extend({
-
-   init: function() {
-      console.log('Γεια σου!');  // eslint-disable-line no-console
-   }
-});
+app.sayHello();

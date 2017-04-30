@@ -6,8 +6,8 @@ module.exports = function(grunt) {
 
    config = {
       js: {
-         all: [ 'Gruntfile.js', 'run.js', 'src/**/*.js', 'tests/**/*.js', '!**/node_modules/**/*' ],
-      }
+         all: [ 'Gruntfile.js', 'src/**/*.js', 'tests/**/*.js' ],
+      },
    };
 
    grunt.initConfig({

@@ -1,8 +1,22 @@
-# Coverage directory (e.g. istanbul)
+# Logs
+logs
+*.log
+npm-debug.log
+
+# Coverage directory used by tools like istanbul
 coverage
 
-# NPM
+# Grunt intermediate storage
+# See: http://gruntjs.com/creating-plugins#storing-task-files
+.grunt
+
+# Compiled binary addons
+# See: https://nodejs.org/api/addons.html#addons_building
+build/Release
+
+# Node Dependencies
 node_modules
 
 # OS
 .DS_Store
+.tmp

@@ -1,6 +1,6 @@
-# tooling-base
+# project-template-node
 
-A base setup for simple node.js CLI tools.
+A basic starting point for node.js projects.
 
 
 ## License
